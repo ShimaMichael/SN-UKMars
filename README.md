@@ -1,12 +1,12 @@
 # Micromouse Firmware Project
 
 # File Structure
-
-    Event_information/
+```
+    event_information/
     |
     |──README.md
     |
-    Requirements/
+    requirements/
     |
     |──README.md
     |
@@ -43,3 +43,4 @@
     │── Makefile                # Makefile (if using Make)
     │── README.md               # Documentation
     │── .gitignore              # Ignore build artifacts
+```
