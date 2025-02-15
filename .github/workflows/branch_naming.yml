@@ -3,7 +3,7 @@ name: Enforce Branch Naming Convention
 on:
   push:
     branches:
-      - '**'  # Trigger for all branches
+      - '**'  # Trigger for all branche
 
 jobs:
   check-branch-name:
